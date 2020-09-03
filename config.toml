@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://aanogueira.github.io"
 title   = "André Nogueira"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -113,7 +113,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:nobody@aanogueira.github.io"
 
   [[params.social]]
     name = "github"
