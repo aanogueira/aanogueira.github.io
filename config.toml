@@ -107,9 +107,9 @@ disableHugoGeneratorInject = false
   #  maxWidth = "150px"
 
   # Social icons
-  #[[params.social]]
-  #  name = "twitter"
-  #  url  = "https://twitter.com/"
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/ze_anogueira"
 
   [[params.social]]
     name = "email"
@@ -122,7 +122,6 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "gitlab"
     url  = "https://github.com/a-nogueira"
-
 
   [[params.social]]
     name = "linkedin"
