@@ -107,25 +107,25 @@ disableHugoGeneratorInject = false
   #  maxWidth = "150px"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
+  #[[params.social]]
+  #  name = "twitter"
+  #  url  = "https://twitter.com/"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@aanogueira.github.io"
+    url  = "mailto:andre.nogueira@email.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/aanogueira"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/andre-a-nogueira"
 
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+  #[[params.social]]
+  #  name = "stackoverflow"
+  #  url  = "https://www.stackoverflow.com/"
 
 [languages]
   [languages.en]
