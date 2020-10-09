@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/a_nogueira
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aanogueira.github.io
+  * I am a_nogueira (https://keybase.io/a_nogueira) on keybase.
+  * I have a public key ASB8PUIW940s4H3zHVUgYfpCoMcPcipRj7TBv4QZXidYCwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012026cad3dd7401189ab446db2ee6a1cb32fd9cc14f0035231c700b2661874c2faa0a",
+      "host": "keybase.io",
+      "kid": "01207c3d4216f78d2ce07df31d552061fa42a0c70f722a518fb4c1bf84195e27580b0a",
+      "uid": "e0b6a59d9e51ed03f8a1d2e28a13b919",
+      "username": "a_nogueira"
+    },
+    "merkle_root": {
+      "ctime": 1602267133,
+      "hash": "5cc65a2309e139e77d6a6c57f18792520aa57d918aefe9523587a47a5d85176a7fffe2799e307f723c876ca126b139f7e23bf0f5b2263371488a71f7689373c7",
+      "hash_meta": "9771161165294f49ba842d8ef8a83201c53bda73a5d0694c28910b27026205cd",
+      "seqno": 17788815
+    },
+    "service": {
+      "entropy": "wDOrGZPMLQBP/3lYvWbUxBBp",
+      "hostname": "aanogueira.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1602267165,
+  "expire_in": 504576000,
+  "prev": "b395b782ba68b5d808d8c5100f800c87e876ee6e863c913e7e17a39e949b9578",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfD1CFveNLOB98x1VIGH6QqDHD3IqUY+0wb+EGV4nWAsKp3BheWxvYWTESpcCF8Qgs5W3grpotdgI2MUQD4AMh+h27m6GPJE+fhejnpSblXjEIFpqLfJFMxp82JUCj1ysL/oWe4J+qaQWcNWTfmmv/AGMAgHCo3NpZ8RAulSEn9+1dl4ns3RNysRHgcTUVgRzMj/bnE7q9k199c+/dZNOu+C3qDo1VqEg5Zo0KWBpfF3tK7RuPoEd/eiZA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMz2jbmt45Au7p0k6/bI+YBdf51YMO2FORTDBdkMSpi6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/a_nogueira
+
+==================================================================
